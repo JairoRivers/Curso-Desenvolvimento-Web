@@ -3,6 +3,7 @@
 class Usario {
     email;
     senha;
+    nome;
 
     constructor(email, senha, nome) {
         this.email = email;

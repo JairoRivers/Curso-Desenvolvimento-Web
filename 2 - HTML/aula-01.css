@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(158, 155, 155);
+}
+
+span {
+    color: rgb(146, 7, 7);
+    padding: 0px 20px;
+    background-color: blue;
+}

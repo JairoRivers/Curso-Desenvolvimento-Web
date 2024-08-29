@@ -1,0 +1,1 @@
+smartphone1.descricao();
