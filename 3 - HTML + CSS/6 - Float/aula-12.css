@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+
+.menu-left {
+    background-color: pink;
+    height: 100vh;
+    width: 200px;
+    float: left;
+
+    /*
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    */
+
+}
+
+.menu-right {
+    background-color: aqua;
+    height: 100vh;
+    width: 300px;
+
+    float: right;
+}
