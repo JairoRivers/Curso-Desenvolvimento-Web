@@ -1,3 +1,5 @@
+// https://github.com/juliossena/curso_javascript
+
 const x = 1;
 const y = 3;
 // Usado Const no lugar de Var por causa da nova versão do Node
